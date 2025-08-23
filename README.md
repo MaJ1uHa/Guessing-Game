@@ -22,6 +22,7 @@
 
 # Скриншоты
 <p align="center">
-  <img src="screenshots/Start_screen_Adviser.png" width="30%" />
-  <img src="screenshots/Result_selection_Adviser.png" width="30%" />
+  <img src="screenshots/Start_game_screen.png" width="30%" />
+  <img src="screenshots/Resume_game_screen.png" width="30%" />
+  <img src="screenshots/Finish_game_screen.png" width="30%" />
 </p>
